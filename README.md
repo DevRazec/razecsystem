@@ -3,7 +3,7 @@ Razec Business Application
 
 web host			https://razecsystem.devrazec.com						
 boilerplate user	admin						
-pass				*dOko872						
+pass				123qwe						
 demo user			demo						
 pass				demo						
 							
